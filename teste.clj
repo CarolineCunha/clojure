@@ -12,6 +12,7 @@
   (* valor-bruto 0.9))
 (valor-descontado 100)
 
+
 (defn valor-descontado
   "Retorna o valor com desconto de 10%"
   [valor-bruto]
